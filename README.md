@@ -6,17 +6,17 @@ This repository archives the results of cross country state meets held by the Io
 Data Dictionary
 ===============
 
-| Field    | Type    | Description                                                                                                   |
-|:---------|:--------|:--------------------------------------------------------------------------------------------------------------|
-| year     | integer | Calendar year of the race.                                                                                    |
-| class    | string  | High school athletics classification, based on enrollment. In ascending order, values are 1A, 2A, 3A, and 4A. |
-| position | integer | Finishing position.                                                                                           |
-| points   | integer | Points awarded to team for finish. Note that individual competitors do not receive points.                    |
-| bib      | integer | Race bib number.                                                                                              |
-| name     | string  | Name of competitor.                                                                                           |
-| grade    | integer | Grade in school. Values are 9, 10, 11, and 12.                                                                |
-| school   | string  | Team or school name.                                                                                          |
-| time     | float   | Finishing time, in seconds.                                                                                   |
+| Field    | Type    | Description                                                                                |
+|:---------|:--------|:-------------------------------------------------------------------------------------------|
+| year     | integer | Calendar year of the race.                                                                 |
+| class    | string  | High school athletics classification, based on enrollment. Values are 1A, 2A, 3A, and 4A.  |
+| position | integer | Finishing position.                                                                        |
+| points   | integer | Points awarded to team for finish. Note that individual competitors do not receive points. |
+| bib      | integer | Race bib number.                                                                           |
+| name     | string  | Name of competitor.                                                                        |
+| grade    | integer | Grade in school. Values are 9, 10, 11, and 12.                                             |
+| school   | string  | Team or school name.                                                                       |
+| time     | float   | Finishing time, in seconds.                                                                |
 
 Contributing
 ============
