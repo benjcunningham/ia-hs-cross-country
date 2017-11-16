@@ -1,0 +1,17 @@
+---
+title: Iowa High School Cross Country Results
+output: github_document
+---
+
+This repository archives the results of cross country state meets held by the Iowa High School Athletic Association. The tabular data shared here represents a standardized transcription of human-readable results previously published publically by the organization.
+
+# Data Dictionary
+
+```{r, echo=FALSE, message=FALSE, results='asis'}
+dd <- readr::read_csv("data/data-dictionary.csv")
+knitr::kable(dd)
+```
+
+# Contributing
+
+If you notice a factual error in the data, please open a pull request with the correction and some discussion about the mistake and your source.
