@@ -1,4 +1,4 @@
-year,class,position,points,no,name,grade,school,time
+year,class,position,points,bib,name,grade,school,time
 2010,1A,1,1,833,Bill Spencer,12,"IOWA MENNONITE, KALONA",954
 2010,1A,2,2,837,Taylor Huseman,12,MANSON-NORTHWEST WEBSTER,964
 2010,1A,3,3,900,Chase Moser,12,WAPELLO,969
@@ -436,7 +436,7 @@ year,class,position,points,no,name,grade,school,time
 2010,4A,54,44,539,Jordan Schulze,10,INDIANOLA,997
 2010,4A,55,45,515,Tanner Reyhons,12,CEDAR FALLS,997
 2010,4A,56,46,551,Larry Lipscomb,12,JOHNSTON,999
-2010,4A,57,47,524,Brenice Ndayizeye,12,"CEDAR RAPIDS, WASHINGTON",1e3
+2010,4A,57,47,524,Brenice Ndayizeye,12,"CEDAR RAPIDS, WASHINGTON",1000
 2010,4A,58,48,492,Jack Espeset,11,AMES,1001
 2010,4A,59,,918,Coty Thompson,12,MASON CITY,1001
 2010,4A,60,49,532,Brian Wahlig,10,DOWLING CATHOLIC,1003
@@ -1454,7 +1454,7 @@ year,class,position,points,no,name,grade,school,time
 2012,4A,80,71,575,Zach Waite,12,"PRAIRIE, CEDAR RAPIDS",997
 2012,4A,81,72,526,Tim Wittman,12,"DUBUQUE, SENIOR",997
 2012,4A,82,,922,Michael Eppink,11,URBANDALE,998
-2012,4A,83,73,590,Mohad Awan,11,WAUKEE,1e3
+2012,4A,83,73,590,Mohad Awan,11,WAUKEE,1000
 2012,4A,84,74,502,Joshua Otto,12,BURLINGTON,1001
 2012,4A,85,75,551,Adam Johanson,11,JOHNSTON,1002
 2012,4A,86,76,493,Lee Grim,9,AMES,1006
@@ -1628,7 +1628,7 @@ year,class,position,points,no,name,grade,school,time
 2013,2A,10,,,Haile Duden,11,SIOUX CENTER,986
 2013,2A,11,7,,Colton Dorpinghaus,11,ALBIA,992
 2013,2A,12,,,Nathan Bradley,12,WEST MARSHALL,998
-2013,2A,13,8,,Jordan Loes,10,MONTICELLO,1e3
+2013,2A,13,8,,Jordan Loes,10,MONTICELLO,1000
 2013,2A,14,,,John Crew,10,DIKE-NEW HARTFORD,1001
 2013,2A,15,9,,Tyler Randall,12,OSAGE,1003
 2013,2A,16,10,,Matt Manternach,10,MONTICELLO,1008
@@ -1761,8 +1761,8 @@ year,class,position,points,no,name,grade,school,time
 2013,3A,13,8,,Andrew Donovan,10,"WAHLERT, DUBUQUE",998
 2013,3A,14,,,Luke Kohut-Jackson,11,BALLARD,999
 2013,3A,15,,,Jacob Schmitt,12,"XAVIER, CEDAR RAPIDS",999
-2013,3A,16,9,,Michael Marshall,11,CENTER POINT-URBANA,1e3
-2013,3A,17,10,,Cullen Turner,12,WILLIAMSBURG,1e3
+2013,3A,16,9,,Michael Marshall,11,CENTER POINT-URBANA,1000
+2013,3A,17,10,,Cullen Turner,12,WILLIAMSBURG,1000
 2013,3A,18,,,Logan Murray,9,MOUNT PLEASANT,1001
 2013,3A,19,11,,Will Jarvill,12,CHARLES CITY,1003
 2013,3A,20,,,Colton Forster,11,MARION,1004
@@ -2421,8 +2421,8 @@ year,class,position,points,no,name,grade,school,time
 2014,4A,44,40,,Jack Fink,10,DOWLING CATHOLIC,998
 2014,4A,45,41,,Mike Fink,12,"DUBUQUE, HEMPSTEAD",999
 2014,4A,46,42,,Josh Borwick,12,JOHNSTON,999
-2014,4A,47,43,,Jay Halverson,12,"LINN-MAR, MARION",1e3
-2014,4A,48,,,Alex Bautista,10,MUSCATINE,1e3
+2014,4A,47,43,,Jay Halverson,12,"LINN-MAR, MARION",1000
+2014,4A,48,,,Alex Bautista,10,MUSCATINE,1000
 2014,4A,49,44,,Ali Ali,10,"IOWA CITY, WEST",1001
 2014,4A,50,45,,Brandon Blythe,12,"VALLEY, WEST DES MOINES",1002
 2014,4A,51,46,,Anthony Pena,9,BETTENDORF,1004
@@ -3493,9 +3493,9 @@ year,class,position,points,no,name,grade,school,time
 2016,4A,37,32,,Elijah Vlasek,11,"PRAIRIE, CEDAR RAPIDS",999
 2016,4A,38,33,,Nicholas Johnson,11,"VALLEY, WEST DES MOINES",999
 2016,4A,39,,,Brenden O'Brien,12,LEWIS CENTRAL,999
-2016,4A,40,34,,Luke Huedepohl,12,"PRAIRIE, CEDAR RAPIDS",1e3
-2016,4A,41,,,Kyle Hoffman,12,MUSCATINE,1e3
-2016,4A,42,35,,Ben Hermiston,10,"DUBUQUE, HEMPSTEAD",1e3
+2016,4A,40,34,,Luke Huedepohl,12,"PRAIRIE, CEDAR RAPIDS",1000
+2016,4A,41,,,Kyle Hoffman,12,MUSCATINE,1000
+2016,4A,42,35,,Ben Hermiston,10,"DUBUQUE, HEMPSTEAD",1000
 2016,4A,43,,,Thomas Rowe,12,MASON CITY,1001
 2016,4A,44,36,,Tom Altier,11,JOHNSTON,1001
 2016,4A,45,,,Joe Freiburger,12,"EPWORTH, WESTERN DUBU",1002
