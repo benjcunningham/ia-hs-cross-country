@@ -1,7 +1,7 @@
 Iowa High School Cross Country Results
 ================
 
-This repository archives the results of cross country state meets held by the Iowa High School Athletic Association. The tabular data shared here represents a standardized transcription of human-readable results previously published publicly by the organization.
+This repository archives the results of cross country state meets held by the Iowa High School Athletic Association. The purpose of sharing the data here is to provide a standardized, tabular transcription of the various [fixed-width results files historically published by the IHSAA](http://www.iahsaa.org/category/cross-country/).
 
 Data Dictionary
 ===============
